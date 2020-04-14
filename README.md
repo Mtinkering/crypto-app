@@ -1,6 +1,8 @@
 # Cryto App
 Simple app with responsive layout.
 
+![Layout](https://github.com/entergmode/crypto-app/blob/master/layout.png)
+
 ## Set Up
 
 ### `npm i`
