@@ -6,7 +6,7 @@ Simple app with responsive layout.
 ## Set Up
 
 ### `npm i`
-Install the dependencies needed to run the project.
+Installs the dependencies needed to run the project.
 
 ### `npm start`
 
